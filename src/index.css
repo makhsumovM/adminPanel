@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Container{
+    max-width: 1920px;
+    margin: 0;
+    padding: 0;
+    margin: auto;
+}
